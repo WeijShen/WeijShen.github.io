@@ -1,0 +1,18 @@
+
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(ò¼µµ
+:	Web:S5256"%Add "<th>" headers to this "<table>".(ò¼µµ
+C	Web:S1827")Remove this deprecated "align" attribute.(®óŸÜÿÿÿÿÿ
+HWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¿•œ
+OWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ç’W8Æ¨øÖÅ0
+HWeb:TableWithoutCaptionCheck*" Add a description to this table.(ò¼µµ
+:	Web:S5256*"%Add "<th>" headers to this "<table>".(ò¼µµ
+>	Web:S1827/")Remove this deprecated "align" attribute.(»…åé
+GWeb:BoldAndItalicTagsCheck1"!Replace this <b> tag by <strong>.(‰¦§É
+LWeb:BoldAndItalicTagsCheck3"!Replace this <b> tag by <strong>.(áº íıÿÿÿÿ
+HWeb:TableWithoutCaptionCheck;" Add a description to this table.(ò¼µµ
+:	Web:S5256;"%Add "<th>" headers to this "<table>".(ò¼µµ
+C	Web:S1827@")Remove this deprecated "align" attribute.(Ê¯¯ÿÿÿÿÿ
+GWeb:BoldAndItalicTagsCheckB"!Replace this <b> tag by <strong>.(íÂùş
+LWeb:BoldAndItalicTagsCheckD"!Replace this <b> tag by <strong>.(ÌĞÊÈüÿÿÿÿ
+SWeb:BoldAndItalicTagsCheckQ"!Replace this <b> tag by <strong>.(Ïçàûÿÿÿÿ8›Õ²×Å0
+NWeb:BoldAndItalicTagsCheckW"!Replace this <b> tag by <strong>.(ã¨¥®8±™´×Å0
